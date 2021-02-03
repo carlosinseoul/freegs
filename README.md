@@ -1,6 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carlosinseoul/freegs/HEAD?filepath=MAST-example.ipynb)
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/carlosinseoul/freegs/HEAD?filepath=MAST-example.ipynb
+https://notebooks.gesis.org/services/binder/v2/gh/carlosinseoul/freegs/5af76b9201af9f03172adddc18150822e2ef21f5?filepath=MAST-example.ipynb
 
 FreeGS: Free boundary Grad-Shafranov solver
 ===========================================
